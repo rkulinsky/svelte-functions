@@ -1,5 +1,5 @@
 {
-  "name": "svelte-app",
+  "name": "svelte-functions",
   "version": "1.0.0",
   "scripts": {
     "build": "rollup -c",
@@ -17,5 +17,17 @@
   },
   "dependencies": {
     "sirv-cli": "^0.4.4"
-  }
+  },
+  "description": "*Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*",
+  "main": "rollup.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkulinsky/svelte-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkulinsky/svelte-functions/issues"
+  },
+  "homepage": "https://github.com/rkulinsky/svelte-functions#readme"
 }
